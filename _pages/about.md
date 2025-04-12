@@ -27,8 +27,7 @@ My research interests lie in **network optimization and planning**, with a parti
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎓🎉 Successfully completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating with the maximum grade **110/110 cum laude**!
 
 # 📝 Publications 
 
