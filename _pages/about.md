@@ -69,9 +69,9 @@ My research interests lie in **network optimization and planning**, with a parti
 - *2022.09 – 2025.04*, M.Sc. in Telecommunication Engineering (cum laude), **Politecnico di Milano**, Milan, Italy.  
 - *2017.09 – 2021.06*, B.Eng. in Telecommunication Engineering, **Huazhong University of Science and Technology**, Wuhan, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!--# 💬 Invited Talks-->
+<!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
