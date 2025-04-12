@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Bachelor's degree in Telecommunication Engineering from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST). I then completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating **cum laude**.
+I obtained my Bachelor's degree in Telecommunication Engineering from the School of Electronic Information and Communications at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I then completed my Master’s degree in Telecommunication Engineering at [Politecnico di Milano](https://www.polimi.it/), graduating **cum laude**.
 
-In May 2025, I joined the [**Bonsai Lab**](https://www.bonsai.deib.polimi.it/) at Politecnico di Milano as a PhD student, working under the supervision of **Prof. Massimo Tornatore** and **Prof. Francesco Musumeci**.
+In May 2025, I joined the [**Bonsai Lab**](https://www.bonsai.deib.polimi.it/) at Politecnico di Milano as a PhD student, working under the supervision of [Prof. Massimo Tornatore](https://tornatore.faculty.polimi.it/) and [Prof. Francesco Musumeci](https://musumeci.faculty.polimi.it/).
 
 My research interests lie in **network optimization and planning**, with a particular focus on **optical networks** and **quantum networks**, including topics such as **quantum key distribution (QKD)** and **entanglement routing**. I am also currently working on **communication-efficient distributed training** for large-scale AI models, aiming to reduce the communication overhead in distributed machine learning systems.<a href='https://scholar.google.com/citations?user=33E79Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
