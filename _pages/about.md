@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Bachelor's degree in Communication Engineering from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST). I then completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating **cum laude**.
+I obtained my Bachelor's degree in Telecommunication Engineering from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST). I then completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating **cum laude**.
 
 In May 2025, I joined the [**Bonsai Lab**](https://www.bonsai.deib.polimi.it/) at Politecnico di Milano as a PhD student, working under the supervision of **Prof. Massimo Tornatore** and **Prof. Francesco Musumeci**.
 
@@ -59,13 +59,15 @@ My research interests lie in **network optimization and planning**, with a parti
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!--# 🎖 Honors and Awards-->
+<!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 📖 Educations
+
+- *2025.05 – present*, Ph.D student. in Information Technology, **Politecnico di Milano**, Milan, Italy.  
+- *2022.09 – 2025.04*, M.Sc. in Telecommunication Engineering (cum laude), **Politecnico di Milano**, Milan, Italy.  
+- *2017.09 – 2021.06*, B.Eng. in Telecommunication Engineering, **Huazhong University of Science and Technology**, Wuhan, China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
