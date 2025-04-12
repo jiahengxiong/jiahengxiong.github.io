@@ -54,7 +54,6 @@ My research interests lie in **network optimization and planning**, with a parti
 **Jiaheng Xiong**, Qiaolun Zhang, Alberto Gatto, Francesco Musumeci, Raouf Boutaba, Massimo Tornatore
 - Accepted by International Conference on Network and Service Management (CNSM2023).
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- Accepted by European Conference on Optical Communication (ECOC2024).
 </div>
 </div>
 
