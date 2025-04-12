@@ -27,7 +27,7 @@ My research interests lie in **network optimization and planning**, with a parti
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎓🎉 Successfully completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating with the maximum grade **110/110 cum laude**!
+- *2025.04*: &nbsp;🎓🎉 Successfully completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating with the maximum grade **110/110 cum laude**!
 
 # 📝 Publications 
 
