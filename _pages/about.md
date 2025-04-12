@@ -73,5 +73,5 @@ My research interests lie in **network optimization and planning**, with a parti
 <!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 💻 Work Experience
+- *2021.08 - 2022.03*, Driver Engineer, OPPO, China.
