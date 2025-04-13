@@ -76,4 +76,4 @@ My research interests lie in **network optimization and planning**, with a parti
 ## 💻 Work Experience
 - *2021.08 - 2022.03*, Driver Engineer, OPPO, China.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Gi8B3_EApaCi2filpg_cUbG20TcOcyLhM14xp7mb7ew&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=200&t=tt&d=Gi8B3_EApaCi2filpg_cUbG20TcOcyLhM14xp7mb7ew&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
