@@ -44,6 +44,7 @@ My research interests lie in **network optimization and planning**, with a parti
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 - Accepted by European Conference on Optical Communication (ECOC2024).
+- This work proposes a shared-protected backup path assignment algorithm leveraging Mode Group Division Multiplexing (MGDM) to enhance spectrum efficiency and reduce MIMO complexity in optical networks.
 </div>
 </div>
 
@@ -54,6 +55,7 @@ My research interests lie in **network optimization and planning**, with a parti
 
 **Jiaheng Xiong**, Qiaolun Zhang, Alberto Gatto, Francesco Musumeci, Raouf Boutaba, Massimo Tornatore
 - Accepted by International Conference on Network and Service Management (CNSM2023).
+- This work proposes adaptive entanglement routing algorithms for quantum networks, which leverage multi-path redundancy and high-success-probability selection strategies to effectively reduce entanglement establishment latency and improve network resource utilization.
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
 </div>
