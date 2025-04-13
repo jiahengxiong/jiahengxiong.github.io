@@ -66,15 +66,15 @@ My research interests lie in **network optimization and planning**, with a parti
 
 ## 📖 Educations
 
-- *2025.05 – present*, Ph.D student. in Information Technology, **Politecnico di Milano**, Milan, Italy.  
-- *2022.09 – 2025.04*, M.Sc. in Telecommunication Engineering (cum laude), **Politecnico di Milano**, Milan, Italy.  
-- *2017.09 – 2021.06*, B.Eng. in Telecommunication Engineering, **Huazhong University of Science and Technology**, Wuhan, China.
+- *2025.05 – present*, Ph.D student in Information Technology, **Politecnico di Milano**, Milan, Italy.  
+- *2022.09 – 2025.04*, M.Sc in Telecommunication Engineering (cum laude), **Politecnico di Milano**, Milan, Italy.  
+- *2017.09 – 2021.06*, B.Eng in Telecommunication Engineering, **Huazhong University of Science and Technology**, Wuhan, China.
 
 <!--# 💬 Invited Talks-->
 <!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 ## 💻 Work Experience
-- *2021.08 - 2022.03*, Driver Engineer, OPPO, China.
+- *2021.08 - 2022.03*, Display Software Driver Engineer, OPPO, China.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=200&t=tt&d=Gi8B3_EApaCi2filpg_cUbG20TcOcyLhM14xp7mb7ew&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
