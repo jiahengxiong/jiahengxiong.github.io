@@ -43,7 +43,7 @@ My research interests lie in **network optimization and planning**, with a parti
 **Jiaheng Xiong**, Qiaolun Zhang, Ruikun Wang, Alberto Gatto, Francesco Musumeci, Massimo Tornatore
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- Accepted by European Conference on Optical Communication (ECOC2024).
+- Accepted by European Conference on Optical Communication (ECOC 2024).
 - This work proposed a shared-protected backup path assignment algorithm leveraging Mode Group Division Multiplexing (MGDM) to enhance spectrum efficiency and reduce MIMO complexity in optical networks.
 </div>
 </div>
@@ -54,7 +54,7 @@ My research interests lie in **network optimization and planning**, with a parti
 [Adaptive entanglement routing for quantum networks with cutoff](https://re.public.polimi.it/bitstream/11311/1260420/1/CNSM_poster.pdf)
 
 **Jiaheng Xiong**, Qiaolun Zhang, Alberto Gatto, Francesco Musumeci, Raouf Boutaba, Massimo Tornatore
-- Accepted by International Conference on Network and Service Management (CNSM2023).
+- Accepted by International Conference on Network and Service Management (CNSM 2023).
 - This work proposed adaptive entanglement routing algorithms for quantum networks, which leverage multi-path redundancy and high-success-probability selection strategies to effectively reduce entanglement establishment latency.
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
