@@ -2,7 +2,7 @@
 
 # Site Settings
 title: "Jiaheng Xiong"
-description: "Politecnico di Milano "
+description: "Politecnico di Milano (POLIMI)"
 repository: "jiahengxiong/jiahengxiong.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -20,7 +20,7 @@ author:
   avatar: "images/android-chrome-512x512.png"
   bio: "PhD student@Bonsai Lab"
   location: "Milan, Italy"
-  employer: "Politecnico di Milano (POLIMI)"
+  employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=33E79Q0AAAAJ"
   email: "jiaheng.xiong@polimi.it"
