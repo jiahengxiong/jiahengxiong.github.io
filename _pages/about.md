@@ -50,7 +50,7 @@ My research interests lie in **network optimization and planning**, with a parti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CNSM 2023</div><img src='images/Fig3-globecom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive entanglement routing for quantum networks with cutoff](https://re.public.polimi.it/bitstream/11311/1260420/1/CNSM_poster.pdf)
+[Adaptive entanglement routing for quantum networks with cutoff](https://ieeexplore.ieee.org/document/10327909)
 
 **Jiaheng Xiong**, Qiaolun Zhang, Alberto Gatto, Francesco Musumeci, Raouf Boutaba, Massimo Tornatore
 - Accepted by International Conference on Network and Service Management (CNSM 2023).
