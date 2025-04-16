@@ -1,7 +1,7 @@
 # Jekyll configuration file for Jiaheng Xiong's academic homepage
 
 # Site Settings
-title: "Jiaheng Xiong\n熊嘉恒"
+title: "Jiaheng Xiong"
 description: "Politecnico di Milano (POLIMI)"
 repository: "jiahengxiong/jiahengxiong.github.io"
 google_scholar_stats_use_cdn: true
@@ -16,7 +16,7 @@ baidu_site_verification:
 
 # Site Author
 author:
-  name: "Jiaheng Xiong"
+  name: "Jiaheng Xiong\熊嘉恒"
   avatar: "images/android-chrome-512x512.png"
   bio: "PhD student @ Bonsai Lab"
   location: "Milan, Italy"
