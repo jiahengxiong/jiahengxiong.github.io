@@ -1,7 +1,7 @@
 # Jekyll configuration file for Jiaheng Xiong's academic homepage
 
 # Site Settings
-title: "Jiaheng Xiong (熊嘉恒)"
+title: "Jiaheng Xiong"
 description: "Politecnico di Milano (POLIMI)"
 repository: "jiahengxiong/jiahengxiong.github.io"
 google_scholar_stats_use_cdn: true
