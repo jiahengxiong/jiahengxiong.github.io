@@ -36,7 +36,7 @@ My research interests lie in **network optimization and planning**, with a parti
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECOC 2024</div><img src='images/Example of DPP and SPP int MGDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECOC 2025</div><img src='images/Combine Key.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Power Consumption Analysis of QKD Networks under Different Protocols and Detector Configurations
