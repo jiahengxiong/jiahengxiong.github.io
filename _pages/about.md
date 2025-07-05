@@ -28,12 +28,28 @@ My research interests lie in **network optimization and planning**, with a parti
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 Our paper “Power Consumption Analysis of QKD Networks under Different Protocols and Detector Configurations” was accepted for oral presentation at ECOC 2025!
 - *2025.04*: &nbsp;🎓🎉 Successfully completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating with the maximum grade **110/110 cum laude**!
 - *2024.06*: &nbsp;🎉 Our paper "Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks" was accepted at ECOC 2024!
 
 
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECOC 2024</div><img src='images/Example of DPP and SPP int MGDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Power Consumption Analysis of QKD Networks under Different Protocols and Detector Configurations
+
+**Jiaheng Xiong**, Qiaolun Zhang, Yoann Piétri, Raja Yehia, Raouf Boutaba, Francesco Musumeci, Massimo Tornatore
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+- Accepted by European Conference on Optical Communication (ECOC 2025).
+- This work proposed a power- and spectrum-aware resource allocation algorithm for QKD networks, optimizing protocol selection, detector placement, and routing to minimize energy consumption under realistic traffic and topology scenarios.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECOC 2024</div><img src='images/Example of DPP and SPP int MGDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
