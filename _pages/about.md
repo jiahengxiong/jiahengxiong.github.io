@@ -44,7 +44,7 @@ Power Consumption Analysis of QKD Networks under Different Protocols and Detecto
 **Jiaheng Xiong**, Qiaolun Zhang, Yoann Piétri, Raja Yehia, Raouf Boutaba, Francesco Musumeci, Massimo Tornatore
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- Accepted by European Conference on Optical Communication (ECOC 2025).
+- Accepted by European Conference on Optical Communication as Oral (ECOC 2025).
 - This work proposed a power- and spectrum-aware resource allocation algorithm for QKD networks, optimizing protocol selection, detector placement, and routing to minimize energy consumption under realistic traffic and topology scenarios.
 </div>
 </div>
