@@ -45,8 +45,8 @@ My research interests lie in **network optimization and planning**, with a parti
 **Jiaheng Xiong**, Qiaolun Zhang, Paolo Medagliani, Michele Ferrero, Xiaomin Liu, Meng Lian, Nicola Di Cicco, Baosen Zhao, Mëmëdhe Ibrahimi, Francesco Musumeci, Massimo Tornatore
 
 - Accepted at the **CoNEXT INET4AI Workshop 2025**, co-located with **ACM CoNEXT 2025**.
-- This work presents **SCALE-CCL**, a wide-area–aware collective communication library that synthesizes efficient AllGather schedules across geo-distributed datacenters. Through topology-aware subchunking and lightweight heuristic search, SCALE-CCL achieves **up to 1000× faster** schedule generation than ILP-based baselines (e.g., TE-CCL) while maintaining a **10–15% performance gap** from optimal.
-
+- This work introduces **SCALE-CCL**, a wide-area–aware collective communication library that efficiently generates communication schedules for AllGather across geo-distributed datacenters. By combining topology-aware decomposition with lightweight schedule synthesis, SCALE-CCL enables scalable and adaptable WAN-level collective communication.
+- 
 </div>
 </div>
 
