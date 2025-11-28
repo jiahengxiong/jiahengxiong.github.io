@@ -37,6 +37,20 @@ My research interests lie in **network optimization and planning**, with a parti
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INET4AI 2025</div><img src='images/Architecture across DCs.jpg' alt="SCALE-CCL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SCALE-CCL: A Scalable Collective Communication Library for Wide-Area Distributed Training](https://dl.acm.org/doi/10.1145/3769695.3771677)
+
+**Jiaheng Xiong**, Qiaolun Zhang, Paolo Medagliani, Michele Ferrero, Xiaomin Liu, Meng Lian, Nicola Di Cicco, Baosen Zhao, Mëmëdhe Ibrahimi, Francesco Musumeci, Massimo Tornatore
+
+<!--[**Project**]()<strong><span class='show_paper_citations' data=''></span></strong>-->
+- Accepted at the 1st Workshop on Inter-networking Challenges for AI (INET4AI 2025), co-located with ACM CoNEXT 2025.
+- This work proposes SCALE-CCL, a WAN-aware collective communication library that uses lightweight offline heuristics and subchunk-based scheduling to generate near-optimal AllGather schedules across geo-distributed datacenters, achieving up to three orders of magnitude faster synthesis time than ILP-based baselines such as TE-CCL with at most ~10–15% performance gap.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECOC 2025</div><img src='images/Bypass and Nobypass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
