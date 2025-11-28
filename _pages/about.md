@@ -39,7 +39,7 @@ My research interests lie in **network optimization and planning**, with a parti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECOC 2025</div><img src='images/Bypass and Nobypass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Power Consumption Analysis of QKD Networks under Different Protocols and Detector Configurations
+[Power Consumption Analysis of QKD Networks under Different Protocols and Detector Configurations](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/xiong-qkd25.pdf)
 
 **Jiaheng Xiong**, Qiaolun Zhang, Yoann Piétri, Raja Yehia, Raouf Boutaba, Francesco Musumeci, Massimo Tornatore
 
