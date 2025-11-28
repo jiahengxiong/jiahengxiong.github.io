@@ -46,7 +46,6 @@ My research interests lie in **network optimization and planning**, with a parti
 
 - Accepted at the **CoNEXT INET4AI Workshop 2025**, co-located with **ACM CoNEXT 2025**.
 - This work introduces **SCALE-CCL**, a wide-area–aware collective communication library that efficiently generates communication schedules for AllGather across geo-distributed datacenters. By combining topology-aware decomposition with lightweight schedule synthesis, SCALE-CCL enables scalable and adaptable WAN-level collective communication.
-- 
 </div>
 </div>
 
