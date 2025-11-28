@@ -28,7 +28,7 @@ My research interests lie in **network optimization and planning**, with a parti
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉 I will present my paper “SCALE-CCL: A Scalable Collective Communication Library for Wide-Area Distributed Training” at the CoNEXT INET4AI Workshop 2025. This marks my first publication on cross–data center collective communication!
+- *2025.12*: &nbsp;🎉 I will present my paper “SCALE-CCL: A Scalable Collective Communication Library for Wide-Area Distributed Training” at the CoNEXT INET4AI Workshop 2025. This is my first publication on cross–data center collective communication!
 - *2025.06*: &nbsp;🎉 Our paper “Power Consumption Analysis of QKD Networks under Different Protocols and Detector Configurations” was accepted for oral presentation at ECOC 2025!
 - *2025.04*: &nbsp;🎓🎉 Successfully completed my Master’s degree in Telecommunication Engineering at Politecnico di Milano, graduating with the maximum grade **110/110 cum laude**!
 - *2024.06*: &nbsp;🎉 Our paper "Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks" was accepted at ECOC 2024!
