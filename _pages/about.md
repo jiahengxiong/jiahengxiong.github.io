@@ -42,7 +42,7 @@ My research interests lie in **network optimization and planning**, with a parti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NOMS 2026</div><img src='images/NOMS_CCL.png' alt="CCL-WAN Coordination" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Coordinating CCL Reoptimization and WAN Reconfiguration for Cross-Regional AI Acceleration
+[Coordinating CCL Reoptimization and WAN Reconfiguration for Cross-Regional AI Acceleration](https://jiahengxiong.github.io/papers/NOMS_Jiaheng.pdf)
 
 **Jiaheng Xiong**, Hao Zhou, Qiaolun Zhang, Paolo Medagliani, Michele Ferrero, Xiaomin Liu, Meng Lian, Nicola Di Cicco, Mëmëdhe Ibrahimi, Francesco Musumeci, Massimo Tornatore
 
