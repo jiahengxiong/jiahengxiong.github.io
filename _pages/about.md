@@ -39,15 +39,8 @@ My research interests lie in **network optimization and planning**, with a parti
 # 📝 Publications
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">NOMS 2026</div>
-      <img src='images/NOMS_CCL.png' alt="CCL-WAN Coordination" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NOMS 2026</div><img src='images/NOMS_CCL.png' alt="CCL-WAN Coordination" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Coordinating CCL Reoptimization and WAN Reconfiguration for Cross-Regional AI Acceleration
 
@@ -56,7 +49,7 @@ Coordinating CCL Reoptimization and WAN Reconfiguration for Cross-Regional AI Ac
 - Accepted at IEEE/IFIP Network Operations and Management Symposium (NOMS) 2026.
 - This paper presents an initial study on the interaction between fast WAN path reconfiguration and slower CCL logical-topology reoptimization in cross-regional AI training. Through controlled simulation, we show that jointly enabling WAN and CCL adaptations significantly reduces AllGather completion time compared to applying either mechanism alone, highlighting a strong coupling between collective communication behavior and WAN dynamics.
 
-  </div>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoNEXT 2025</div><img src='images/Architecture across DCs.jpg' alt="SCALE-CCL" width="100%"></div></div>
